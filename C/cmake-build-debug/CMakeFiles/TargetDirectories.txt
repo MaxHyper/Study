@@ -1,0 +1,3 @@
+C:/Users/MAX/CLionProjects/Vocabulary/cmake-build-debug/CMakeFiles/Vocabulary.dir
+C:/Users/MAX/CLionProjects/Vocabulary/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MAX/CLionProjects/Vocabulary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

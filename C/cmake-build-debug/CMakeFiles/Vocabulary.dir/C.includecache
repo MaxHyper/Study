@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/MAX/CLionProjects/Vocabulary/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+stdlib.h
+-
+
