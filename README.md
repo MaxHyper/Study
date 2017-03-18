@@ -1,5 +1,6 @@
-# Study ----
-
+# Study
+by Max Margolin
+-
 done so far:
 The first batch of questions, ----
 1-3 -----
